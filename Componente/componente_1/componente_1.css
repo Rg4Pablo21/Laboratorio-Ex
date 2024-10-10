@@ -1,0 +1,54 @@
+.componente {
+    border: 1px solid #6e6e6e;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: #513d3d41;
+  }
+  
+  .descripción {
+    border: 1px solid #808080;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color: #818181;
+  }
+  
+  .caracteristicas {
+    border: 1px solid #650909;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color: #000000;
+  }
+  
+  .caracteristicas ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .contacto {
+    border: 1px solid #969696;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color: #6a6a6a;
+  }
+  
+  .contacto input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .contacto button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
